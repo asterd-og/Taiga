@@ -1,0 +1,6 @@
+i32 main() {
+    i32 var = 69;
+    i32 var2 = 420;
+
+    return var;
+}
